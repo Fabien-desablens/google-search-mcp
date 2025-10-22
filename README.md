@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides Google Search functionality with automatic API key rotation and intelligent quota management.
 
+<a href="https://glama.ai/mcp/servers/@Fabien-desablens/google-search-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@Fabien-desablens/google-search-mcp/badge" alt="Google Search Server MCP server" />
+</a>
+
 ## Features
 
 - Official Google Custom Search API integration
